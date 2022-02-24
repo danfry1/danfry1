@@ -25,7 +25,7 @@ SCSS         1 min           ░░░░░░░░░░░░░░░░░
 [![dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danfry1&count_private=true&show_icons=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danfry1&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danfry1&repo=danfry1-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **danfry1/danfry1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
