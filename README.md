@@ -1,8 +1,8 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Daniel!
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Daniel! 
 
 ---
 
-🧰 Toolbox
+## 🧰 Toolbox
 
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="JavaScript Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React Logo" width="50" height="50"/>
@@ -10,7 +10,7 @@
 
 ---
 
-## What I have been working on this week ⬇️ ##
+## What I have been working on this week ⬇️ 
 <!--START_SECTION:waka-->
 ```text
 JavaScript   10 hrs 5 mins   ███████████████████▓░░░░░   78.74 % 
