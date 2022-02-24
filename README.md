@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Daniel!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Daniel!
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-
+What I have been working on this week ⬇️
 <!--START_SECTION:waka-->
 ```text
 JavaScript   10 hrs 5 mins   ███████████████████▓░░░░░   78.74 % 
