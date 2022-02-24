@@ -7,9 +7,6 @@
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="JavaScript Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React Logo" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="GraphQL Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="Postgres Logo" width="50" height="50"/>
 
-[![dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danfry1)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ---
 
 ## 🔧 What I have been working with this week  
@@ -22,6 +19,8 @@ JSON         6 mins          ▒░░░░░░░░░░░░░░░░
 SCSS         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 <!--END_SECTION:waka-->
+
+[![dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danfry1)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **danfry1/danfry1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
