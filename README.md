@@ -10,7 +10,7 @@
 
 ---
 
-## What I have been working on this week ⬇️ 
+## What I have been working with this week ⬇️ 
 <!--START_SECTION:waka-->
 ```text
 JavaScript   10 hrs 5 mins   ███████████████████▓░░░░░   78.74 % 
