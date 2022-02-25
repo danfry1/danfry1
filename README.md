@@ -24,7 +24,7 @@ SCSS         1 min           ░░░░░░░░░░░░░░░░░
 [![dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danfry1&count_private=true&show_icons=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" width="30px">
+<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" width="100px">
 
 
 
