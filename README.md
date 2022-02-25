@@ -24,6 +24,10 @@ SCSS         1 min           ░░░░░░░░░░░░░░░░░
 [![dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danfry1&count_private=true&show_icons=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" width="30px">
+
+
+
 <!--
 **danfry1/danfry1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
