@@ -30,7 +30,7 @@ CSS          9 mins          ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ---
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=danfry1&left_color=green&right_color=red)
 
 ![Visitor Count](https://profile-counter.glitch.me/{danfry1}/count.svg)
 
