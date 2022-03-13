@@ -32,7 +32,7 @@ CSS          9 mins          ▒░░░░░░░░░░░░░░░░
 ---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=danfry1&left_color=green&right_color=red)
 
-![Visitor Count](https://profile-counter.glitch.me/{danfry1}/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{danfry1}/count.svg) -->
 
 [![dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danfry1&count_private=true&show_icons=true&hide=stars,issues&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
 
