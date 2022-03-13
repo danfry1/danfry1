@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Daniel!  
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=danfry1&left_color=green&right_color=red) 
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=danfry1&left_color=green&right_color=red)  -->
 
 ---
 
@@ -33,9 +33,11 @@ CSS          9 mins          ▒░░░░░░░░░░░░░░░░
 
 ---
 
-<!-- ![Visitor Count](https://profile-counter.glitch.me/{danfry1}/count.svg) -->
+
 
 [![dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danfry1&count_private=true&show_icons=true&hide=stars,issues&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
+
+![Visitor Count](https://profile-counter.glitch.me/{danfry1}/count.svg)
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="50px">
 
