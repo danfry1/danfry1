@@ -35,7 +35,7 @@ CSS          9 mins          ▒░░░░░░░░░░░░░░░░
 
 
 
-[![dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danfry1&count_private=true&show_icons=true&hide=stars,issues&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
+<a> [![dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danfry1&count_private=true&show_icons=true&hide=stars,issues&include_all_commits)](https://github.com/anuraghazra/github-readme-stats) </a>
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{danfry1}/count.svg) -->
 
