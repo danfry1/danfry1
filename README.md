@@ -1,4 +1,6 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Daniel!  <div style="text-align: right">  ![visitors](https://visitor-badge.glitch.me/badge?page_id=danfry1&left_color=green&right_color=red) </div>
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Daniel!  
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=danfry1&left_color=green&right_color=red) 
 
 ---
 
