@@ -17,7 +17,7 @@
 
 ---
 
-<!-- ## 🔧 What I've been working with this week  
+## 🔧 What I've been working with this week  
 <!--START_SECTION:waka-->
 
 ```text
@@ -29,7 +29,7 @@ Markdown     23 mins         █░░░░░░░░░░░░░░░░
 JSON         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 ```
 
-<!--END_SECTION:waka--> -->
+<!--END_SECTION:waka-->
 
 ---
 
