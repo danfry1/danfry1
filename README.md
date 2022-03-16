@@ -41,8 +41,6 @@ JSON         16 mins         ▓░░░░░░░░░░░░░░░░
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="50px">
 
-<iframe src="https://minnit.chat/codeworks?embed&&nickname=" style="border:none;width:90%;height:500px;" allowTransparency="true"></iframe>
-
 
 
 
