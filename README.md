@@ -10,6 +10,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript Logo" width="70" height="70"/></a> 
  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript Logo" width="70" height="70"/></a> 
   <a href="https://reactjs.org/"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React Logo" width="70" height="70"/>  </a>
+  <img src="https://pbs.twimg.com/profile_images/1121395911849062400/7exmJEg4_400x400.png" alt="React Logo" width="70" height="70"/>
   <a href="https://www.mongodb.com/">  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB Logo" width="70" height="70"/> </a>
   <a href="https://nodejs.dev/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node Logo" width="70" height="70"/> </a>
   <a href="https://graphql.org/">  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="GraphQL Logo" width="70" height="70"/> </a>
