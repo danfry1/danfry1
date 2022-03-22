@@ -18,7 +18,7 @@
   <a href="https://graphql.org/">  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="GraphQL Logo" width="70" height="70"/> </a>
  <a href="https://www.postgresql.org/">   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="Postgres Logo" width="70" height="70"/></a>
  <a href="https://redux.js.org/">   <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux Logo" width="70" height="70"/></a>
-  <a href="https://redux.js.org/">   <img src="https://avatars.githubusercontent.com/u/1481354?s=280&v=4" alt="Redux Logo" width="70" height="70"/></a>
+<!--   <a href="https://redux.js.org/">   <img src="https://avatars.githubusercontent.com/u/1481354?s=280&v=4" alt="Redux Logo" width="70" height="70"/></a> -->
 </div>
 
 ---
