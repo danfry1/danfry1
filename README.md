@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# <div display='flex' alignItems='center'> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></div>
 <!-- , I'm Daniel!   -->
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=danfry1&left_color=green&right_color=red)  -->
