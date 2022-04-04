@@ -20,7 +20,7 @@
  <a href="https://www.prisma.io/">   <img src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4" alt="Prisma Logo" width="70" height="70"/></a>
   <a href="https://nodejs.dev/">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node Logo" width="70" height="70"/> </a>
-  <a href="https://graphql.org/">  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="GraphQL Logo" width="70" height="70"/> </a>
+  <a href="https://graphql.org/">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="GraphQL Logo" width="70" height="70"/> </a>
  <a href="https://www.postgresql.org/">   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="Postgres Logo" width="70" height="70"/></a>
  <a href="https://redux.js.org/">   <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux Logo" width="70" height="70"/></a>
   <a href="https://elixir-lang.org/">   <img src="https://avatars.githubusercontent.com/u/1481354?s=280&v=4" alt="Elixir Logo" width="70" height="70"/></a>
