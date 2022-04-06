@@ -48,8 +48,8 @@ TypeScript   6 mins          ▒░░░░░░░░░░░░░░░░
 
 ![dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danfry1&count_private=true&show_icons=true&hide=stars,issues&include_all_commits)
 
-<!-- ![Visitor Count](https://profile-counter.glitch.me/{danfry1}/count.svg) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=danfry1)](https://github.com/ryo-ma/github-profile-trophy)
+![Visitor Count](https://profile-counter.glitch.me/{danfry1}/count.svg)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=danfry1)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="50px">
 
