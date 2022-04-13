@@ -43,6 +43,7 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
+---
 
 
 ![dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danfry1&count_private=true&show_icons=true&hide=stars,issues&include_all_commits)
