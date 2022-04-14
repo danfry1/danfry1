@@ -1,7 +1,7 @@
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <!-- , I'm Daniel!   -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=danfry1&left_color=green&right_color=red) 
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=danfry1&left_color=green&right_color=red)  -->
 
 ---
 
