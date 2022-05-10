@@ -32,9 +32,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   50 hrs          █████████████████████░░░░   83.64 %
-Svelte       7 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
-Other        1 hr 16 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+JavaScript   47 hrs 29 mins  ████████████████████▓░░░░   82.93 %
+Svelte       7 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
+Other        1 hr 16 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 ```
 
 <!--END_SECTION:waka-->
