@@ -5,16 +5,13 @@
 
 ## 🧰 Toolbox
 <div>
-<!--  <kbd> -->
 <a href="https://www.javascript.com/">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript Logo" width="70" height="70"/></a> 
-<!--   </kbd> -->
  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript Logo" width="70" height="70"/></a> 
   <a href="https://reactjs.org/"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React Logo" width="70" height="70"/>  </a>
  <a href="https://svelte.dev/">
   <img src="https://pbs.twimg.com/profile_images/1121395911849062400/7exmJEg4_400x400.png" alt="Svelte Logo" width="70" height="70"/>
  </a>
-  <a href="https://www.mongodb.com/">  <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" alt="MongoDB Logo" width="70" height="70"/> </a>
  <a href="https://www.prisma.io/">   <img src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4" alt="Prisma Logo" width="70" height="70"/></a>
   <a href="https://nodejs.dev/">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node Logo" width="70" height="70"/> </a>
