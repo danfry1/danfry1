@@ -10,7 +10,7 @@
 
 
 **Open source**
-- [`bonsai-js`](https://github.com/danfry1/bonsai-js) — fast, sandboxed TypeScript expression evaluator
+- [`bonsai-js`](https://github.com/danfry1/bonsai-js) — fast, sandboxed expression evaluator
 - [`reflow-ts`](https://github.com/danfry1/reflow-ts) — durable workflow execution for TypeScript
 
 ---
