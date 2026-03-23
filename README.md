@@ -13,6 +13,7 @@
 - [`bonsai-js`](https://github.com/danfry1/bonsai-js) - fast, sandboxed expression evaluator
 - [`reflow-ts`](https://github.com/danfry1/reflow-ts) - durable workflow execution for TypeScript
 - [`faultline`](https://github.com/danfry1/faultline) - a complete type-safe error system for TypeScript
+- [`lume`](https://github.com/danfry1/lume) - a muted, elegant dark color theme
 ---
 
 <sub>🌐 <a href="https://danfry.dev">danfry.dev</a> · 𝕏 <a href="https://x.com/danfrydev">@danfrydev</a></sub>
