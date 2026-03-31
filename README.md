@@ -11,6 +11,7 @@
 
 **Open source**
 - [`bonsai-js`](https://github.com/danfry1/bonsai-js) - fast, sandboxed expression evaluator
+- [`waxon`](https://github.com/danfry1/waxon) - a vim-modal Spotify client for the terminal
 - [`reflow-ts`](https://github.com/danfry1/reflow-ts) - durable workflow execution for TypeScript
 - [`faultline`](https://github.com/danfry1/faultline) - a complete type-safe error system for TypeScript
 - [`lume`](https://github.com/danfry1/lume) - a muted, elegant dark color theme
