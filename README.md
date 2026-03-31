@@ -17,4 +17,4 @@
 - [`mind-the-gap`](https://github.com/danfry1/mind-the-gap) - A dark color theme inspired by the London Underground tube map
 ---
 
-<sub>🌐 <a href="https://danfry.dev">danfry.dev</a> · 𝕏 <a href="https://x.com/danfrydev">@danfrydev</a></sub>
+<p>🌐 <a href="https://danfry.dev">danfry.dev</a> · 𝕏 <a href="https://x.com/danfrydev">@danfrydev</a></p>
