@@ -1,11 +1,3 @@
-<div align="center">
-
-![](https://raw.githubusercontent.com/danfry1/danfry1/main/banner.svg)
-
-</div>
-
----
-
 **VP Lead Software Engineer @ JPMorganChase** · London
 
 
