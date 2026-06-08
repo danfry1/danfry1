@@ -2,6 +2,7 @@
 
 
 **Open source**
+- [`vitest-native`](https://github.com/danfry1/vitest-native) - test React Native with Vitest, no Jest required
 - [`bonsai-js`](https://github.com/danfry1/bonsai-js) - fast, sandboxed expression evaluator
 - [`waxon`](https://github.com/danfry1/waxon) - a vim-modal Spotify client for the terminal
 - [`reflow-ts`](https://github.com/danfry1/reflow-ts) - durable workflow execution for TypeScript
