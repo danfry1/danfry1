@@ -6,6 +6,7 @@
 - [`vitest-native`](https://github.com/danfry1/vitest-native) - test React Native with Vitest, no Jest required
 - [`reflow-ts`](https://github.com/danfry1/reflow-ts) - durable workflow execution for TypeScript
 - [`faultline`](https://github.com/danfry1/faultline) - a complete type-safe error system for TypeScript
+- [`typediff`](https://github.com/danfry1/typediff) - diff TypeScript types between package versions to verify semver
 
 **Apps**
 - [`waxon`](https://github.com/danfry1/waxon) - a vim-modal Spotify client for the terminal
