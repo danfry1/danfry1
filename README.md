@@ -11,6 +11,7 @@
 
 **Apps**
 - [`waxon`](https://github.com/danfry1/waxon) - a vim-modal Spotify client for the terminal
+- [`marina`](https://github.com/danfry1/marina) - a developer-process cockpit for the terminal
 
 **Themes**
 - [`lume`](https://github.com/danfry1/lume) - a muted, elegant dark color theme
