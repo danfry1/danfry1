@@ -1,5 +1,3 @@
-### Hey, I'm Dan 👋
-
 **VP Lead Software Engineer @ JPMorganChase** · London
 
 I build small, sharp open-source tools: zero-dependency TypeScript libraries, terminal apps in Rust and Go, and dark colour themes.
