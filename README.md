@@ -1,25 +1,25 @@
 <p align="center"><img src="machines/header.svg#gh-light-mode-only" width="772" alt="Daniel Fry — VP Lead Software Engineer, JPMorganChase, London. Things I build, mostly developer tools."><img src="machines/header-dark.svg#gh-dark-mode-only" width="772" alt="Daniel Fry — VP Lead Software Engineer, JPMorganChase, London. Things I build, mostly developer tools."></p>
 
 <p align="center">
-<a href="https://github.com/danfry1/bonsai-js"><img src="machines/bonsai-js.svg#gh-light-mode-only" width="190" alt="bonsai-js"><img src="machines/bonsai-js-dark.svg#gh-dark-mode-only" width="190" alt="bonsai-js"></a>
-<a href="https://github.com/danfry1/vitest-native"><img src="machines/vitest-native.svg#gh-light-mode-only" width="190" alt="vitest-native"><img src="machines/vitest-native-dark.svg#gh-dark-mode-only" width="190" alt="vitest-native"></a>
-<a href="https://github.com/danfry1/waxon"><img src="machines/waxon.svg#gh-light-mode-only" width="190" alt="waxon"><img src="machines/waxon-dark.svg#gh-dark-mode-only" width="190" alt="waxon"></a>
-<a href="https://github.com/danfry1/lume"><img src="machines/lume.svg#gh-light-mode-only" width="190" alt="lume"><img src="machines/lume-dark.svg#gh-dark-mode-only" width="190" alt="lume"></a>
+<a href="https://github.com/danfry1/bonsai-js"><picture><source media="(prefers-color-scheme: dark)" srcset="machines/bonsai-js-dark.svg"><img src="machines/bonsai-js.svg" width="190" alt="bonsai-js"></picture></a>
+<a href="https://github.com/danfry1/vitest-native"><picture><source media="(prefers-color-scheme: dark)" srcset="machines/vitest-native-dark.svg"><img src="machines/vitest-native.svg" width="190" alt="vitest-native"></picture></a>
+<a href="https://github.com/danfry1/waxon"><picture><source media="(prefers-color-scheme: dark)" srcset="machines/waxon-dark.svg"><img src="machines/waxon.svg" width="190" alt="waxon"></picture></a>
+<a href="https://github.com/danfry1/lume"><picture><source media="(prefers-color-scheme: dark)" srcset="machines/lume-dark.svg"><img src="machines/lume.svg" width="190" alt="lume"></picture></a>
 <br>
-<a href="https://github.com/danfry1/reflow-ts"><img src="machines/reflow-ts.svg#gh-light-mode-only" width="190" alt="reflow-ts"><img src="machines/reflow-ts-dark.svg#gh-dark-mode-only" width="190" alt="reflow-ts"></a>
-<a href="https://github.com/danfry1/hacker-news-tui"><img src="machines/hacker-news-tui.svg#gh-light-mode-only" width="190" alt="hacker-news-tui"><img src="machines/hacker-news-tui-dark.svg#gh-dark-mode-only" width="190" alt="hacker-news-tui"></a>
-<a href="https://github.com/danfry1/faultline"><img src="machines/faultline.svg#gh-light-mode-only" width="190" alt="faultline"><img src="machines/faultline-dark.svg#gh-dark-mode-only" width="190" alt="faultline"></a>
-<a href="https://github.com/danfry1/marina"><img src="machines/marina.svg#gh-light-mode-only" width="190" alt="marina"><img src="machines/marina-dark.svg#gh-dark-mode-only" width="190" alt="marina"></a>
+<a href="https://github.com/danfry1/reflow-ts"><picture><source media="(prefers-color-scheme: dark)" srcset="machines/reflow-ts-dark.svg"><img src="machines/reflow-ts.svg" width="190" alt="reflow-ts"></picture></a>
+<a href="https://github.com/danfry1/hacker-news-tui"><picture><source media="(prefers-color-scheme: dark)" srcset="machines/hacker-news-tui-dark.svg"><img src="machines/hacker-news-tui.svg" width="190" alt="hacker-news-tui"></picture></a>
+<a href="https://github.com/danfry1/faultline"><picture><source media="(prefers-color-scheme: dark)" srcset="machines/faultline-dark.svg"><img src="machines/faultline.svg" width="190" alt="faultline"></picture></a>
+<a href="https://github.com/danfry1/marina"><picture><source media="(prefers-color-scheme: dark)" srcset="machines/marina-dark.svg"><img src="machines/marina.svg" width="190" alt="marina"></picture></a>
 <br>
-<a href="https://github.com/danfry1/typediff"><img src="machines/typediff.svg#gh-light-mode-only" width="190" alt="typediff"><img src="machines/typediff-dark.svg#gh-dark-mode-only" width="190" alt="typediff"></a>
-<a href="https://github.com/danfry1/wordle-tui"><img src="machines/wordle-tui.svg#gh-light-mode-only" width="190" alt="wordle-tui"><img src="machines/wordle-tui-dark.svg#gh-dark-mode-only" width="190" alt="wordle-tui"></a>
-<a href="https://github.com/danfry1/rime"><img src="machines/rime.svg#gh-light-mode-only" width="190" alt="rime"><img src="machines/rime-dark.svg#gh-dark-mode-only" width="190" alt="rime"></a>
-<a href="https://github.com/danfry1/mind-the-gap"><img src="machines/mind-the-gap.svg#gh-light-mode-only" width="190" alt="mind-the-gap"><img src="machines/mind-the-gap-dark.svg#gh-dark-mode-only" width="190" alt="mind-the-gap"></a>
+<a href="https://github.com/danfry1/typediff"><picture><source media="(prefers-color-scheme: dark)" srcset="machines/typediff-dark.svg"><img src="machines/typediff.svg" width="190" alt="typediff"></picture></a>
+<a href="https://github.com/danfry1/wordle-tui"><picture><source media="(prefers-color-scheme: dark)" srcset="machines/wordle-tui-dark.svg"><img src="machines/wordle-tui.svg" width="190" alt="wordle-tui"></picture></a>
+<a href="https://github.com/danfry1/rime"><picture><source media="(prefers-color-scheme: dark)" srcset="machines/rime-dark.svg"><img src="machines/rime.svg" width="190" alt="rime"></picture></a>
+<a href="https://github.com/danfry1/mind-the-gap"><picture><source media="(prefers-color-scheme: dark)" srcset="machines/mind-the-gap-dark.svg"><img src="machines/mind-the-gap.svg" width="190" alt="mind-the-gap"></picture></a>
 </p>
 
 <p align="center"><sub>more → <a href="https://github.com/danfry1/astrotime">astrotime</a> · <a href="https://github.com/danfry1/bizdate">bizdate</a> · <a href="https://github.com/danfry1/canonjson">canonjson</a> · <a href="https://github.com/danfry1/chunkjson">chunkjson</a> · <a href="https://github.com/danfry1/theme-template">theme-template</a> · <a href="https://github.com/danfry1/jev-triage">jev-triage</a></sub></p>
 
 <p align="center">
-<a href="https://danfry.dev"><img src="machines/link-site.svg#gh-light-mode-only" width="150" alt="danfry.dev"><img src="machines/link-site-dark.svg#gh-dark-mode-only" width="150" alt="danfry.dev"></a>
-<a href="https://x.com/danfrydev"><img src="machines/link-x.svg#gh-light-mode-only" width="190" alt="@danfrydev on X"><img src="machines/link-x-dark.svg#gh-dark-mode-only" width="190" alt="@danfrydev on X"></a>
+<a href="https://danfry.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="machines/link-site-dark.svg"><img src="machines/link-site.svg" width="150" alt="danfry.dev"></picture></a>
+<a href="https://x.com/danfrydev"><picture><source media="(prefers-color-scheme: dark)" srcset="machines/link-x-dark.svg"><img src="machines/link-x.svg" width="190" alt="@danfrydev on X"></picture></a>
 </p>
