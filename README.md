@@ -17,8 +17,6 @@
 <a href="https://github.com/danfry1/mind-the-gap"><picture><source media="(prefers-color-scheme: dark)" srcset="machines/mind-the-gap-dark.svg"><img src="machines/mind-the-gap.svg" width="170" alt="mind-the-gap"></picture></a>
 </p>
 
-<p align="center"><sub>more → <a href="https://github.com/danfry1/astrotime">astrotime</a> · <a href="https://github.com/danfry1/bizdate">bizdate</a> · <a href="https://github.com/danfry1/canonjson">canonjson</a> · <a href="https://github.com/danfry1/chunkjson">chunkjson</a> · <a href="https://github.com/danfry1/theme-template">theme-template</a> · <a href="https://github.com/danfry1/jev-triage">jev-triage</a></sub></p>
-
 <p align="center">
 <a href="https://danfry.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="machines/link-site-dark.svg"><img src="machines/link-site.svg" width="150" alt="danfry.dev"></picture></a>
 <a href="https://x.com/danfrydev"><picture><source media="(prefers-color-scheme: dark)" srcset="machines/link-x-dark.svg"><img src="machines/link-x.svg" width="190" alt="@danfrydev on X"></picture></a>
